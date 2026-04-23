@@ -1,12 +1,12 @@
 {
-  "name": "<ваш логин на github>/collect",
+  "name": "tenkco/collect",
   "description": "Module for working with arrays ",
   "type": "library",
   "license": "MIT",
   "authors": [
     {
-      "name": "<ваше имя>",
-      "email": "<ваша почта>"
+      "name": "tenkco",
+      "email": "sytnikkv@gmail.com"
     }
   ],
   "minimum-stability": "dev",
